@@ -1,0 +1,122 @@
+body{
+    position: absolute;
+    width: 550px;
+    height: 729px;
+    left: 450px;
+    top: 5px;
+    background: black;
+}
+#header-part{
+    background: #6943FF;
+    width: 550px;
+    height: 285px;
+    left: 0px;
+    top: 0px;
+}
+
+h1{
+    position: absolute;
+    width: 448.4px;
+    height: 38px;
+    left: 51px;
+    top: 33px;
+    color: white;
+    text-align: center;
+    letter-spacing: -0.03em;
+    font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+#input-number{
+    box-sizing: border-box;
+    position: absolute;
+    width: 117px;
+    height: 83px;
+    left: 217px;
+    top: 101px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+    color: white;
+    text-align: center;
+    font-size: 58px;
+    font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+}
+
+#convert-btn{
+    position: absolute;
+    width: 117px;
+    height: 42px;
+    left: 217px;
+    top: 209px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #3D3D3D;
+    font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+}
+
+#conversion-part{
+    background: #1F2937;
+    margin-top: 0px;
+    position: absolute;
+    width: 550px;
+    height: 400px;
+    left: 0px;
+    top: 285px;
+}
+
+#box-length{
+    position: absolute;
+    width: 500px;
+    height: 108.57px;
+    left: 25px;
+    top: 25px;
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+}
+#box-volume{
+    position: absolute;
+    width: 500px;
+    height: 108.57px;
+    left: 25px;
+    top: 150px;
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+}
+#box-mass{
+    position: absolute;
+    width: 500px;
+    height: 108.57px;
+    left: 25px;
+    top: 275px;
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+}
+h3{
+    color: #CCC1FF;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 20px;
+    font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+}
+
